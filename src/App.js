@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>
-          This is all about the hotel management system, the frontend side.
+          This is all about the hotel management system, the frontend side only.
     </h1>
     </div>
   );
